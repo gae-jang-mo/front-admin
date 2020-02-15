@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { Layout, Menu, Icon } from 'antd';
 import { navigationMenus } from '../constants/navigationMenu';
-// import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 export function Navigation() {
     return (
@@ -29,7 +29,7 @@ export function Navigation() {
                         <Menu.Item key={menu.key}>
                             <Icon type={menu.iconKey} />
                             <span>{menu.description}</span>
-                            {/*<Link to={menu.link} />*/}
+                            <Link to={menu.link} />
                         </Menu.Item>
                     );
                 })}

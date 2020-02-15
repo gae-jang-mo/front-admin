@@ -8,14 +8,14 @@ export interface NavigationMenu {
 const user: NavigationMenu = {
     key: 'user',
     iconKey: 'user',
-    link: '/user',
+    link: '/users',
     description: '회원',
 };
 
 const product: NavigationMenu = {
     key: 'product',
     iconKey: 'qq',
-    link: '/product',
+    link: '/products',
     description: '장비',
 };
 
