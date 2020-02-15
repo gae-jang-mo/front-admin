@@ -17,3 +17,21 @@ A
 :
 
 src/App.js,1/e/1e43fa63aecd2127be034b3fb9d4caa172275714
+;
+.prettierrc,2/0/20137a9e94744624390b6748bc96df5ca1579b71
+<
+.eslintrc.js,d/b/dbc0c31823b8f2e4ed04a397722fed33a67f123f
+A
+package-lock.json,f/a/fa288d1472d29beccb489a676f68739ad365fc47
+F
+src/react-app-env.d.ts,4/a/4a7b99bdbee5792679d347b6474463bf5e14b66d
+=
+tsconfig.json,6/1/61ebb9fd6e8cf9082658121d5d81e297791dacd0
+>
+yarn-error.log,f/3/f3b7336f891b6569b2fd4a67fd391439c7eb76e3
+M
+src/components/Navigation.tsx,4/6/4616cc989076d7805422c925f6f61b3462bac0ec
+I
+src/components/Footer.tsx,6/a/6a1906fbef47b21e13258a3accfe644e256f3344
+O
+src/constants/navigationMenu.ts,3/e/3ed554b8408152d9570025fc78ce23ed641663de
