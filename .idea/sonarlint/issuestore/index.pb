@@ -12,11 +12,6 @@ A
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 <
 src/logo.svg,6/d/6d3a8cd532ece5b4ddbd4b3b6a678ba686d300bc
-<
-src/index.js,f/9/f900edc44cb929c2267a16100a32851f6d5b477d
-:
-
-src/App.js,1/e/1e43fa63aecd2127be034b3fb9d4caa172275714
 ;
 .prettierrc,2/0/20137a9e94744624390b6748bc96df5ca1579b71
 <
@@ -35,3 +30,13 @@ I
 src/components/Footer.tsx,6/a/6a1906fbef47b21e13258a3accfe644e256f3344
 O
 src/constants/navigationMenu.ts,3/e/3ed554b8408152d9570025fc78ce23ed641663de
+;
+src/App.tsx,8/3/835da56f32df714aaed6285a5b7fc3a7807851e4
+=
+src/index.tsx,5/a/5ab44fe33ca96299f51ad4778a73e425b92bf439
+L
+src/containers/Dashboard.tsx,a/5/a56db4b627e06d65e845d5770dda9d630362ca6a
+P
+ src/components/ProductsTable.tsx,9/e/9e8f7d1cc8e8ed5f82657bdf3bce9c0ebdcae292
+T
+$src/containers/ProductManagement.tsx,4/c/4c82b92adb6ded6963a4529ad166554d775a67e8
