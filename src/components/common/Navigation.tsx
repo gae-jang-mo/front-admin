@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { Layout, Menu, Icon } from 'antd';
-import { navigationMenus } from '../constants/navigationMenu';
+import { navigationMenus } from '../../constants/navigationMenu';
 import { Link } from 'react-router-dom';
 
 export function Navigation() {

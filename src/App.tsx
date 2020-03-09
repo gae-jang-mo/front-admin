@@ -1,10 +1,10 @@
 import React from 'react';
 import { Route, Switch } from 'react-router-dom';
 import { Layout } from 'antd';
-import { Navigation } from './components/Navigation';
-import { Footer } from './components/Footer';
-import DashBoard from './containers/Dashboard';
-import ProductManagement from './containers/ProductManagement';
+import { Navigation } from './components/common/Navigation';
+import { Footer } from './components/common/Footer';
+import DashBoard from './pages/Dashboard';
+import ProductManagement from './pages/ProductManagement';
 
 function App() {
     return (

@@ -40,3 +40,13 @@ P
  src/components/ProductsTable.tsx,9/e/9e8f7d1cc8e8ed5f82657bdf3bce9c0ebdcae292
 T
 $src/containers/ProductManagement.tsx,4/c/4c82b92adb6ded6963a4529ad166554d775a67e8
+G
+src/model/productDto.ts,d/e/dedae09f2f68c9f1a76e2c007016c192fe9b34b0
+N
+src/stores/ProductListStore.ts,3/4/34015b98e48c0a630b4e9bba47f471c60dd1db0e
+F
+src/lib/axiosClient.ts,6/7/6717ef75992a03c9a99f04bc07b11b1eb12414ab
+K
+src/lib/openNotification.ts,6/6/6633065386a23da8eba024dae338b57a5897d36c
+B
+src/api/product.ts,7/b/7b6059054f4e72bcbe5f6452079cf9540214c136
