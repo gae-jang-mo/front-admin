@@ -33,8 +33,8 @@ const columns = [
         key: 'highestPrice',
     },
     {
-        title: '수정/삭제'
-    }
+        title: '수정/삭제',
+    },
 ];
 
 export default class ProductsTable extends React.Component<any> {

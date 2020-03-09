@@ -1,0 +1,12 @@
+#!/bin/sh
+
+if yarn run lint; then
+    for file in $(git diff --name-only --cached --relative); do
+        git add "${file}"
+    done
+
+    exit 0
+else
+    yarn run prettier
+    exit 1
+fi
