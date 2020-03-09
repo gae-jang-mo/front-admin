@@ -3,7 +3,7 @@ import { openNotification } from '../lib/openNotification';
 import { findInternalProducts } from '../api/product';
 import { ProductDto } from '../model/productDto';
 
-export class ProductListStore {
+export class ProductsStore {
     @observable productList: ProductDto[] = [];
 
     @action
